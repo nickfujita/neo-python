@@ -1,4 +1,4 @@
-from other.test import foobar
+from smartContract.other.test import foobar
 
 def Main():
     print('hey')

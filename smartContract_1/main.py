@@ -1,4 +1,4 @@
-from test import *
+from smartContract_1.test import *
 
 def Main():
     print('hey')
